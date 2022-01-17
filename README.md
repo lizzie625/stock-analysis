@@ -17,9 +17,11 @@ In 2018, however, only 2 tickers were had a positive return. DQ was up 199.4% in
 ![2018StockAnalysis](https://user-images.githubusercontent.com/96501958/149699978-5773f17e-4b66-40fc-945e-431a47b343ca.png)
 
 Summary
+
   Disadvantages:
   
 Our code is limited to 2 years of data, making it hard to decipher if any of these stock are better than another. Even if we had more data to pull from and add to the dataset, it would require more effort than it is worth to write the code able to analyze thousands of different stocks, so we have to limit the options we would like to analyze. Because our code is so limited, we cannot draw too many trends from our results. We know that most of the stocks were down in 2018, but we do not know why and do not have enough data to see if it was just a bad year or if solar energy is on a decline that will continue for future years. 
+
   Advantages:
   
 We are able to clearly deciper the various stocks and how they did both in 2017, 2018, and those 2 years combined. The code is also great for a smaller sized data set. If someone is stuck between a handful of stocks they would like to invest in, it is very helpful to see the year by year analysis and narrow down your options even further to pick a stock that is a safe investment and continuously goes up. 
